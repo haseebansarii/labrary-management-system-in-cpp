@@ -24,7 +24,7 @@ const char* bg1="\033[48;5;219m";
 const char* resetColor = "\033[0;31m";
 const char* maroonColorCode = "\033[0;31m";
 
-    // ANSI escape code for very light pink background color
+
     const char* lightPinkBackgroundColorCode = "\033[0;31"";107m";
 
 
