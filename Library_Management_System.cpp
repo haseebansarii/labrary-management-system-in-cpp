@@ -20,7 +20,7 @@ const char* bg = "\033[1;45m";
 const char* bg1="\033[48;5;219m";
 
 
-//  const char* resetColor = "\033[0m";
+
 const char* resetColor = "\033[0;31m";
 const char* maroonColorCode = "\033[0;31m";
 
